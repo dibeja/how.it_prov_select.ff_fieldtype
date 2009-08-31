@@ -5,13 +5,13 @@ if ( ! defined('EXT')) exit('Invalid file request');
 
 /**
  * States Select Class
- * @package   States Select
- * @author    Ryan Irelan <ryan@irelan.net>
- * @copyright 2009 Ryan Irelan
+ * @package   It Prov Select
+ * @author    Luca Di Bella
+ * @copyright 2009 Luca Di Bella
  * @license   http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported
  */
 
-class Ri_states_select extends Fieldframe_Fieldtype {
+class How_it_prov_select extends Fieldframe_Fieldtype {
 
 	var $info = array(
 			'name'             => 'HOW IT Prov Select',
