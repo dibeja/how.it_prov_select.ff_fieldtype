@@ -14,9 +14,9 @@ if ( ! defined('EXT')) exit('Invalid file request');
 class Ri_states_select extends Fieldframe_Fieldtype {
 
 	var $info = array(
-			'name'             => 'RI States Select',
-			'version'          => '0.2',
-			'desc'             => 'Creates a select menu with the 50 United States of America.',
+			'name'             => 'HOW IT Prov Select',
+			'version'          => '0.1',
+			'desc'             => 'Creates a select menu with the Italian Province.',
 			'docs_url'         => 'http://github.com'
 			);
 
