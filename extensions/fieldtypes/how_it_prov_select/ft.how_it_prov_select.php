@@ -46,7 +46,7 @@ class How_it_prov_select extends Fieldframe_Fieldtype {
 				"BL" => "Belluno",
 				"BN" => "Benevento",
 				"BG" => "Bergamo",
-				"BI" > "Biella",
+				"BI" => "Biella",
 				"BO" => "Bologna",
 				"BZ" => "Bolzano",
 				"BS" => "Brescia",
